@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="change_color">Change Color</string>
+    <string name="speak">Speak</string>
+    <string name="api_version">API Version</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="back">Back</string>
+    <string name="speak_hint">Enter text to speak</string>
+</resources>
