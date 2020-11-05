@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseToDoList</string>
+    <string name="task">Task</string>
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+    <string name="add_todo">ADD TODO</string>
+</resources>
