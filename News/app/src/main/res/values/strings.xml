@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Le_Leveille</string>
+    <string name="title">Vincent Le &amp; Theoren Leveille</string>
+    <string name="enter_keyword">Enter a keyword:</string>
+    <string name="keyword_placeholder">basketball, canada, covid, …</string>
+    <string name="search">Search</string>
+    <string name="full_article">Full Article: </string>
+</resources>
