@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857067920170",
+    "firebase_url": "https://czone-4964f.firebaseio.com",
+    "project_id": "czone-4964f",
+    "storage_bucket": "czone-4964f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857067920170:android:4a8e81e7d5be1ea0221c53",
+        "android_client_info": {
+          "package_name": "ca.bcit.czone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857067920170-qgjudqee7rhj70mhoog3jacj4uqa2v66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomO5Z2713LNyuWZtNFeAjzxFI6SoVRXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857067920170-qgjudqee7rhj70mhoog3jacj4uqa2v66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

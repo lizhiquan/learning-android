@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CZone</string>
+
+    <string name="tab_info">Information</string>
+    <string name="tab_nearby">Nearby</string>
+    <string name="tab_notifications">Notification</string>
+
+    <string name="warning">WARNING!</string>
+    <string name="warning_message_1_week">Entered CZone - Infection occurred in this area within the last week.</string>
+    <string name="warning_message_2_week">Entered CZone - Infection occurred in this area within the last 2 weeks.</string>
+    <string name="warning_message_3_week">Entered CZone - Infection occurred in this area within the last 3 weeks.</string>
+    <string name="warning_message_over_3_week">Entered CZone - Infection occurred in this area over 3 weeks ago.</string>
+
+    <string name="covid_url">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html</string>
+</resources>

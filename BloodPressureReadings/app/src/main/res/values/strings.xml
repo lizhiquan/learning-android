@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Le_Zhilenkov</string>
+    <string name="title_name">Le, Chi Quyen &amp; Zhilenkov, Vyacheslav</string>
+    <string name="systolic">Systolic</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="report">REPORT</string>
+    <string name="missing_systolic_message">You must enter a systolic.</string>
+    <string name="missing_diastolic_message">You must enter a diastolic.</string>
+    <string name="reading_added_message">Reading added.</string>
+    <string name="reading_updated_message">Reading updated.</string>
+    <string name="reading_deleted_message">Reading deleted.</string>
+    <string name="invalid_input_message">Invalid systolic/diastolic.</string>
+    <string name="general_error_message">Something went wrong.</string>
+    <string name="empty_reading_error_message">There is no reading to generate a report.</string>
+    <string name="normal_condition">Normal</string>
+    <string name="elevated_condition">Elevated</string>
+    <string name="stage_1_condition">High blood pressure (stage 1)</string>
+    <string name="stage_2_condition">High blood pressure (stage 2)</string>
+    <string name="hypertensive_condition">Hypertensive crisis</string>
+    <string name="update_dialog_title">Update reading</string>
+    <string name="report_title">Month-to-date average readings for %1$s</string>
+    <string name="device_serial_label">Device Serial Number:</string>
+    <string name="family_member">Family Member:</string>
+    <string name="systolic_reading_label">Systolic Reading:</string>
+    <string name="diastolic_reading_label">Diastolic Reading:</string>
+    <string name="average_condition_label">Average Condition:</string>
+    <string name="warning">WARNING!</string>
+    <string name="hypertensive_warning_message">You are in a Hypertensive Crisis Condition. Please consult your doctor immediately.</string>
+    <string name="not_available">N/A</string>
+
+    <array name="familyMember">
+        <item>father@home.com</item>
+        <item>mother@home.com</item>
+        <item>grandma@home.com</item>
+        <item>grandpa@home.com</item>
+    </array>
+
+</resources>
